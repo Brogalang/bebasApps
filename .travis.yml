@@ -1,4 +1,4 @@
-sudo : required
+sudo: required
 dist: trusty
 language: php
 
@@ -19,4 +19,4 @@ before_install:
 before_script:
 
 #Main Execution
-script
+script:
